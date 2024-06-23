@@ -1,0 +1,4 @@
+name: KloonTag
+version: '${project.version}'
+main: net.kloon.KloonTag
+api-version: '1.20'
